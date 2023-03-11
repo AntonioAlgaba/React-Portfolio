@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 
 function Header() {
   return (
-          
+    <div className=""> 
     <ul className="nav nav-tabs">
       <li className="nav-item">
         <NavLink
@@ -39,6 +39,7 @@ function Header() {
         </NavLink>
       </li>
     </ul>
+    </div> 
      );
 }
 

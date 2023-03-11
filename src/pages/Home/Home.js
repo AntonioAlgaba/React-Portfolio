@@ -5,8 +5,8 @@ function Home () {
     return (
         <div >
           
-            <h1>Hi There!!</h1>
-            <img src= {Photo} alt="Photo" style={{height: "200px", width: "200px", borderRadius: "20px", marginLeft:"20px"}}/>
+            <h1>Hi! I'm Antonio, a future front end developer with a passion for coding and learning new and challenging this</h1>
+            
         </div>
     )
 }

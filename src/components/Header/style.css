@@ -1,0 +1,12 @@
+.photo{
+    height: 100px;
+    border-radius: 50%;
+    z-index: 9999;
+    position: relative;
+    margin: 2rem;
+  }
+
+  .jumbotron{
+    height: 200px;
+    margin-bottom: 2rem;
+  }
