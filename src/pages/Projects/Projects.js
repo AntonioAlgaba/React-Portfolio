@@ -9,6 +9,7 @@ function Projects() {
         <h2>Some projects I've been working recently</h2>
         <div className="row">
         {projects.map((projects) => (
+          
             <ProjectCards
               key={projects.id}       
               name={projects.name}
