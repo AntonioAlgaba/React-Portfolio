@@ -14,5 +14,33 @@
         "deployed": "https://antonioalgaba.github.io/Work-Day-Scheduler/",
         "gitHub": "https://github.com/AntonioAlgaba/Work-Day-Scheduler",
         "image": "https://github.com/AntonioAlgaba/Work-Day-Scheduler/blob/main/images/screenshot.jpg?raw=true"
+    },
+    {
+        "id": 3,
+        "name": "Weather-Dashboard",
+        "deployed": "https://antonioalgaba.github.io/Weather-Dashboard/",
+        "gitHub": "https://github.com/AntonioAlgaba/Weather-Dashboard",
+        "image": "https://github.com/AntonioAlgaba/Weather-Dashboard/blob/main/images/screenshot2.jpg?raw=true"
+    },
+    {
+        "id": 4,
+        "name": "Team Profile Generator",
+        "deployed": "https://watch.screencastify.com/v/5FxyfDPOBbZLuZi0JrxK",
+        "gitHub": "https://github.com/AntonioAlgaba/Team-Profile-Generator",
+        "image": "https://github.com/AntonioAlgaba/Team-Profile-Generator/blob/main/assets/screenshot.jpg?raw=true"
+    },
+    {
+        "id": 5,
+        "name": "Bootstrap Portfolio",
+        "deployed": "https://antonioalgaba.github.io/Bootstrap-Portfolio/",
+        "gitHub": "https://github.com/AntonioAlgaba/Bootstrap-Portfolio",
+        "image": "https://github.com/AntonioAlgaba/Bootstrap-Portfolio/blob/main/images/screenshot1.jpg?raw=true"
+    },
+    {
+        "id": 6,
+        "name": "Password Generator",
+        "deployed": "https://antonioalgaba.github.io/Password-Generator/",
+        "gitHub": "https://github.com/AntonioAlgaba/Password-Generator",
+        "image": "https://github.com/AntonioAlgaba/Password-Generator/blob/main/images/application.jpg?raw=true"
     }
 ]
