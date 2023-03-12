@@ -23,7 +23,7 @@ class Contact extends Component {
         event.preventDefault();
     
         // Alert the user their first and last name, clear `this.state.firstName` and `this.state.lastName`, clearing the inputs
-        alert(`Hello ${this.state.name} ${this.state.email} ${this.state.text}`);
+        alert(`Hello ${this.state.name}\n${this.state.email}\n${this.state.text}`);
         this.setState({
           name: "",
           email: "",
