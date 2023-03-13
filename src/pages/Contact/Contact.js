@@ -23,7 +23,7 @@ class Contact extends Component {
         // Preventing the default behavior of the form submit (which is to refresh the page)
         event.preventDefault();
     
-        // Alert the user their first and last name, clear `this.state.firstName` and `this.state.lastName`, clearing the inputs
+        // Alert the user their nameand, email
         alert(`Hello ${this.state.name}\n${this.state.email}\n${this.state.text}`);
         this.setState({
           name: "",
@@ -31,7 +31,7 @@ class Contact extends Component {
           text: ""
         });
       };
-
+     // Open CV pdf in other window
       handlePdf = () => {
         window.open(CV, '_blank')
       };
