@@ -7,7 +7,7 @@ Portfolio created with Rreact.
 
 Video: https://watch.screencastify.com/v/iZaS8ehCnckoMwm0nziH
 
-Link to application: 
+Link to application: https://antonioalgaba.github.io/React-Portfolio/
 
 App image:
  
