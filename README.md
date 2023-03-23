@@ -44,6 +44,6 @@ App image:
   6. [ ] Project
   7. [ ] Contact
   
-##Credits
+## Credits
 
 Skills Boot Camp in Front-End Web Development
