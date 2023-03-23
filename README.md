@@ -30,6 +30,16 @@ App image:
       * [ ] Link to the deployed version
       * [ ] Link to the GitHub repository
       * [ ] GIF or screenshot of the deployed application
+
+### Required Components
+
+* At a minium, your portfolio must render these 6 components:
+  1. [ ] App
+  2. [ ] Header
+  4. [ ] Home
+  5. [ ] Project Gallery
+  6. [ ] Project
+  7. [ ] Contact
   
 ##Credits
 
