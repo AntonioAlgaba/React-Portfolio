@@ -10,6 +10,7 @@ Video: https://watch.screencastify.com/v/iZaS8ehCnckoMwm0nziH
 Link to application: https://antonioalgaba.github.io/React-Portfolio/
 
 App image:
+![App](assests/app.jpg)
  
 ## Technologies
   - React
