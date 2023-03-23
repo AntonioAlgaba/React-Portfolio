@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react'
-import { BrowserRouter  as Router,Routes, Route} from "react-router-dom";
+import { HashRouter, Routes, Route} from "react-router-dom";
 import NavBar from './components/NavBar'
 import Header from "./components/Header";
 import Home from "./pages/Home/Home";
@@ -10,7 +10,7 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-  <Router>
+  <HashRouter>
     <div>
       <NavBar />
       <Header />
@@ -21,7 +21,7 @@ function App() {
         </Routes>
       <Footer />
     </div>
-  </Router>
+  </HashRouter>
     
   );
 }
